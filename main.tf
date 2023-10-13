@@ -3,7 +3,7 @@ resource "aws_security_group" "instance" {
   
   ingress {
     from_port	  = var.SERVER_PORT
-    to_port		  = var.server_port
+    to_port		  = var.SERVER_PORT
     protocol	  = "tcp"
     cidr_blocks	= ["0.0.0.0/0"]
   }
