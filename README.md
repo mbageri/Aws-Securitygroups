@@ -1,4 +1,4 @@
 # AWS Security groups module
 
-This folder contains Security groups module for [Aws-webservers-provisioning repository](https://github.com/mbageri/Aws-webservers-provisioning).
+This folder contains Security groups module for [Aws-webservers-provisioning](https://github.com/mbageri/Aws-webservers-provisioning)  repository.
 
